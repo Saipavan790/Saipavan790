@@ -6,10 +6,10 @@
 ### <div align="center">I'm Uma Satya Sai Pavan, an Undergraduate student at IITM 👨‍💻aspiring to become Data Scientist. 🚀</div>  
   
 
-- 🔭 I’m currently working on Machine learning projects.  
+- 🔭 I’m currently working as Data Scientist at American Express.  
   
 
-- 🌱 I’m currently learning Deep Learning.  
+- 🌱 I’m currently learning about NLP.  
   
 
 - ⚡ Fun fact: I use tabs over spaces  
@@ -44,8 +44,17 @@
 
 ### DevOps  
 <div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /> 
 </div>
+
+</td><td valign="top" width="33%">
+
+### Big Data Tools
+<div align="center">
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />
+<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="Git" height="60" /> 
+</div>
+
 
 </td></tr></table>  
 
