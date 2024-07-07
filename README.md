@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning about NLP.  
   
 
-- ⚡ Fun fact: I use tabs over spaces  
+- ⚡Hobbies : Playing and watching cricket, Volley ball and Learning about new advancements in AI
   
 
 <br/>  
