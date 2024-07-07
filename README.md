@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Uma Satya Sai Pavan, an Undergraduate student at IITM 👨‍💻aspiring to become Data Scientist. 🚀</div>  
+### <div align="center">I'm Uma Satya Sai Pavan, graduated from IIT Madras 🚀</div>  
   
 
 - 🔭 I’m currently working as Data Scientist at American Express.  
