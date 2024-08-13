@@ -6,7 +6,7 @@
 ### <div align="left">I'm Uma Satya Sai Pavan, graduated from IIT Madras 🚀</div>  
   
 
-- 🔭 I’m currently working as a Data Scientist at American Express.  
+- 🔭 I’m currently working as a Data Analyst at American Express.  
   
 
 - 🌱 I’m currently learning about NLP.  
